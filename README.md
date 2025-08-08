@@ -1,1 +1,1 @@
-# infra-monitoring-stack
+"# Infra Monitoring Stack\n\nThis project sets up a complete infrastructure monitoring system using Prometheus, Grafana, and Node Exporter to track and visualize system metrics.\nIt includes automation with Docker Compose and CI/CD integration via GitHub Actions." 
