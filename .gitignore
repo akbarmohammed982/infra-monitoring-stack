@@ -1,0 +1,30 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Docker artifacts
+*.log
+docker-compose.override.yml
+.env
+.env.*
+*.pid
+
+# Grafana data
+grafana/data/
+
+# Prometheus data
+prometheus/data/
+
+# VSCode settings
+.vscode/
+
+# GitHub Actions temp files
+*.tmp
